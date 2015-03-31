@@ -6,5 +6,5 @@ description 'Installs/Configures sample-app'
 long_description 'Installs/Configures sample-cookbook'
 version '0.1.1'
 
-depends 'users'
-depends 'apache'
+depends 'users', '~1.8.2'
+depends 'apache', '~0.0.5'
