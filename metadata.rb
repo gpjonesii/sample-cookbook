@@ -4,5 +4,5 @@ maintainer_email 'chef@awesomeinc.com'
 license 'All rights reserved'
 description 'Installs/Configures sample-app'
 long_description 'Installs/Configures sample-cookbook'
-version '0.2.0'
+version '0.3.0'
 
